@@ -1,6 +1,7 @@
 # ⚡ Energy Forecast Intelligence
 
 🔗 Live Demo: https://energy-analytics-platform.streamlit.app/
+---
 **A production-grade **time series forecasting and anomaly detection system** for energy consumption using **weather-driven signals** and multiple forecasting models.
 
 ---
